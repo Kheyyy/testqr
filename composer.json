@@ -1,9 +1,0 @@
-{
-    "name": "composer/testing",
-    "description": "composer testing",
-    "type": "project",
-    "require": {
-        "endroid/qr-code": "^3.5",
-        "simple-crud/simple-crud": "^6.12"
-    }
-}
